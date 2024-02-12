@@ -21,11 +21,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `ㅤㅤ𝑫𝑰𝑵𝑶𝑩𝑶𝑻 @𝑩𝒚 𝑱𝒐𝒔𝒔🦖🍃
+    const str = `ㅤㅤ707𝘽𝙊𝙏 🤖🍃
 
- ▢ *Hola ,* ${taguser} este es el 𝑫𝑰𝑵𝑶𝑩𝑶𝑻 🦖
+ ▢ *Hola ,* ${taguser} este es el 707𝘽𝙊𝙏 🤖
 
- 👨🏻‍💻 *Owner:* 𝙅𝙤𝙨𝙨 🤺
+ 🤖 *Owner:* Lider 707 SPORT
+ ➡️ *WA:* wa.me/56942442907
+ 👨🏻‍💻 *Desarrollador:*
  ➡️ *WA:* wa.me/56986469687
  🔱 *IG:* @ancelzzz
  ⏳ *Uptime:* ${uptime}
