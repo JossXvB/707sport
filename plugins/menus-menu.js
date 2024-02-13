@@ -29,7 +29,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ➡️ *WA:* wa.me/56942442907
  👨🏻‍💻 *Desarrollador:*
  ➡️ *WA:* wa.me/56986469687
- 🔱 *IG:* @ancelzzz
+ 🔱 *IG:* @707_sport.ofc
  ⏳ *Uptime:* ${uptime}
  👥 *Usuarios regs:* ${rtotalreg}
  🔮 *Usuarios totales:* ${rtotal}

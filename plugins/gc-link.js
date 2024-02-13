@@ -6,7 +6,7 @@ const handler = async (m, {conn, args}) => {
       title: '𝙻𝙸𝙽𝙺 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾',
       body: '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖',
       previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
-      sourceUrl: `https://www.instagram.com/ancelzzz/`}}});
+      sourceUrl: `https://www.instagram.com/707_sport.ofc`}}});
 };
 handler.help = ['linkgroup'];
 handler.tags = ['group'];
